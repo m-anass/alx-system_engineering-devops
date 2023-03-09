@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+x 7-everybody
+chmod a+x 7-everybody
